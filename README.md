@@ -1,1 +1,1 @@
-[Deployed link](https://chat-app-s53k.onrender.com/)
+[Deployed link](https://eaz-chat.onrender.com)
